@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: khaki;
+}
+
+#article {
+  padding-top: 2rem;
+<<<<<<< HEAD
+  background-color: khaki;
+=======
+>>>>>>> e90085f (initial commit)
+}
+
+#gallery {
+  background-color: khaki;
+}
+
+footer {
+  background-color: khaki;
+}
+
+section {
+  padding-top: 5rem;
+}
